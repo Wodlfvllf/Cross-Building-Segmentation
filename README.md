@@ -78,7 +78,7 @@ During the 25 epochs of training, the model consistently improved across both tr
 ### **Visual Results**
 Here are sample results from the validation set showcasing the model’s predictions:
 
-![Input Image](https://github.com/Wodlfvllf/Cross-Building-Segmentation/blob/main/Merged_document.png)
+![Input Image](https://github.com/Wodlfvllf/Cross-Building-Segmentation/blob/main/Merged_document%20(1).png)
 
 The model accurately captures the object boundaries and performs well on complex, high-detail regions.
 
